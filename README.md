@@ -8,14 +8,15 @@ This [Blender](https://www.blender.org/) addon is a tool developed for use with 
 
 - **Bone locking:** Create IK-like constraints while using FK, with config saving and loading.
 - **Offset system:** Easily adjust many animation poses at once.
-- **Export .fbx Animations:** Convert animations into a custom Roblox-supported format.
-- **FPS slider and model visibility toggles.**
-
-## Future Plans
+- **Export animations:** Convert .fbx into a custom Roblox-supported format. Animation names can create automatic directories, e.g, `"Combat/DefaultStyle/Idle"` 
+- **Model visibility toggles:** Easily toggle the visibility of models on the character to adjust the workflow.
+- **FPS slider:** Used to slow down the playback of an animation for more precise editing.
+  
+## To do
 
 - Make the bone config editable from the plugin itself.
 - Ability to edit the models that the visibility toggles adjust.
-- Broaden the scope of the addon.
+- Broaden the scope of the addon and provide documentation.
 
 ## License
 
